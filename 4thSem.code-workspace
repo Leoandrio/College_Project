@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Python lab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4thSem"
+	}
+}
